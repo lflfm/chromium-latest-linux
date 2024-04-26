@@ -1,0 +1,8 @@
+[Desktop Entry]
+Type=Application
+Name=Chromium
+Exec=/home/me/apps/chromium/run.sh
+Icon=/home/me/apps/chromium/icon.png
+Terminal=false
+Categories=Network;WebBrowser;
+
