@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Name=Chromium
-Exec=/home/me/apps/chromium/run.sh
-Icon=/home/me/apps/chromium/icon.png
+Exec=/home/luiz/apps/chromium/run.sh
+Icon=/home/luiz/apps/chromium/icon.png
 Terminal=false
 Categories=Network;WebBrowser;
 

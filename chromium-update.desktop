@@ -1,8 +1,8 @@
 [Desktop Entry]
 Type=Application
 Name=Chromium Update & Run
-Exec=/home/me/apps/chromium/update-and-run.sh
-Icon=/home/me/apps/chromium/icon-update.png
+Exec=/home/luiz/apps/chromium/update-and-run.sh
+Icon=/home/luiz/apps/chromium/icon-update.png
 Terminal=false
 Categories=Network;WebBrowser;
 
